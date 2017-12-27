@@ -16,6 +16,8 @@ body {
 }
 .w8 {
   width: 64rem;
+
+  height: 333px;
 }
 .tj {
   text-align: justify;
